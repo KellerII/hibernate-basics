@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contactmgr-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/contactmgr-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contactmgr-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/contactmgr-hibernate_main.iml" group="contactmgr-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contactmgr-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/contactmgr-hibernate_test.iml" group="contactmgr-hibernate" />
+    </modules>
+  </component>
+</project>
